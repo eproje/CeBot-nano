@@ -1,5 +1,4 @@
-<p><center><img src="images/cebotlogo.png" alt="foo" title="title" height=200 width=200 /></center></p>
-
+![](images/CebotLogo.png)
 # CeBot-Nano
 ---
 
@@ -10,8 +9,10 @@
 
 ## Gelişim Tablosu:
 - 22.10.2019 Elektronik öğretmenimiz Mustafa KARAKAŞ tarafından hazırlanan uygulama notları eklendi.
+- 22.10.2019 ebook klasörü oluşturuldu. (Bu klasörde yazarlarımız tarafından hazırlanmış CeBot-nano materyalleri paylaşılacaktır.)
 - 22.10.2019 CeBot-nano montaj videosu youtube üzerinde paylaşıldı.
 - 21.10.2019 CeBot-nano projemize ait dosyalar github üzerinde paylaşılmaya başlandı.
+- 18.10.2019 İlk grup CeBot-nano üretimi tamamlandı ve CeBot projelerine katılan okullarımıza ulaştırıldı.
 
 ## Sponsorlar:
 - Robolink Teknoloji:
