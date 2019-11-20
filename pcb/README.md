@@ -1,0 +1,1 @@
+CeBot-nano şema ve PCB dosyalarıdır.

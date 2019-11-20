@@ -1,3 +1,5 @@
+<center>
+
 ![](images/CebotLogo.png)
 # CeBot-Nano
 ---
@@ -6,6 +8,13 @@
 
 
 
+
+![](images/cebot-nano-3d-t5all.jpg)
+
+
+
+<img src="images/icon-plus.png" alt="drawing" width="256"/>
+</center>
 
 ## Gelişim Tablosu:
 - 20.11.2019 README.md dosyası güncellendi.
