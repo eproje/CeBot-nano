@@ -8,6 +8,8 @@
 
 
 ## Gelişim Tablosu:
+- 20.11.2019 README.md dosyası güncellendi.
+- 20.11.2019 Devre şeması düzenlendi ve github sayfasına eklendi.( pcb klasörüne bakınız)
 - 22.10.2019 Elektronik öğretmenimiz Mustafa KARAKAŞ tarafından hazırlanan uygulama notları eklendi.
 - 22.10.2019 ebook klasörü oluşturuldu. (Bu klasörde yazarlarımız tarafından hazırlanmış CeBot-nano materyalleri paylaşılacaktır.)
 - 22.10.2019 CeBot-nano montaj videosu youtube üzerinde paylaşıldı.
