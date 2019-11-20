@@ -4,17 +4,21 @@
 # CeBot-Nano
 ---
 
-![](images/cebot-nano-wiev04.jpg)
-
-
-
-
-![](images/cebot-nano-3d-t5all.jpg)
+![3D tasarım](images/cebot-nano-3d-t5all.jpg)
 
 
 
 <img src="images/icon-plus.png" alt="drawing" width="256"/>
+
+![](images/cebot-nano-wiev05.jpg)
+
+<img src="images/icon-equal.png" alt="drawing" width="256"/>
+
+![](images/cebot-nano-wiev04.jpg)
+
 </center>
+
+---
 
 ## Gelişim Tablosu:
 - 20.11.2019 README.md dosyası güncellendi.
