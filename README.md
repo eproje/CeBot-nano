@@ -4,17 +4,16 @@
 # CeBot-Nano
 ---
 
-![3D tasarım](images/cebot-nano-3d-t5all.jpg)
+![](images/cebot-nano-3d-t5all.jpg "Özgün 3D tasarim")
+
+<p><img src="images/icon-plus.png" alt="drawing" width="256" height="256" /></p>
 
 
+![](images/cebot-nano-wiev05.jpg "Özgün PCB tasarim")
 
-<img src="images/icon-plus.png" alt="drawing" width="256"/>
+</p><img src="images/icon-equal.png" alt="drawing" width="256" height="256" /></p>
 
-![](images/cebot-nano-wiev05.jpg)
-
-<img src="images/icon-equal.png" alt="drawing" width="256"/>
-
-![](images/cebot-nano-wiev04.jpg)
+![](images/cebot-nano-wiev04.jpg "sonuc CeBot-nano")
 
 </center>
 
